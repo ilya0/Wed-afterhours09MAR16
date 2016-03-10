@@ -16,3 +16,9 @@ while (index<studentsWhile.length){
 for (var i=0; i<studentsDavid.length; i++) {
   console.log("A very cool student named " + studentsDavid[i] + " is also in my class.")
 }
+
+//// hackzored by ilya
+
+for (var i=0; i<studentsFor.length; i++){
+  console.log("A student named " + studentsFor[i]+ " is in my ass.", "A student named " + studentsFor[i]+ " is in my ass.");
+}
