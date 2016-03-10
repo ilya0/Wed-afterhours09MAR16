@@ -22,3 +22,14 @@ for (var i=0; i<studentsDavid.length; i++) {
 for (var i=0; i<studentsFor.length; i++){
   console.log("A student named " + studentsFor[i]+ " is in my ass.", "A student named " + studentsFor[i]+ " is in my ass.");
 }
+
+//Adam's loop!
+
+
+var emperors=['Octavian', 'Ceasar', 'Trajan', 'Hadrian', 'Nero'];
+var i = 0;
+while(i < emperors.length) {
+  console.log(emperors[i]);
+
+  i++
+}
